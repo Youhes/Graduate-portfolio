@@ -20,10 +20,4 @@ Laravel  10.13.5
 ## 設計書
 [設計書ページへ](https://drive.google.com/drive/folders/12JRE3ouJ6iBieAbQtv6ZdE2T15mV7F6z?usp=drive_link)
     
-## システム閲覧
-[アプリケーションページへ](https://guraduate-b1de2ca5866e.herokuapp.com/login)
 
-## テストアカウント情報
-
-メールアドレス：2222@2  
-パスワード：22222222
