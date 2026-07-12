@@ -18,6 +18,9 @@ Laravel  10.13.5
 ```
 
 ## 設計書
-[設計書ページへ](https://drive.google.com/drive/folders/12JRE3ouJ6iBieAbQtv6ZdE2T15mV7F6z?usp=drive_link)
+[設計書ページへ](https://drive.google.com/drive/folders/12JRE3ouJ6iBieAbQtv6ZdE2T15mV7F6z)
     
-
+## 工夫した点
+• 管理者が容易に情報更新できるよう、登録・編集画面の操作性を意識して設計しました。
+• 複数画像のアップロード機能を実装し、利用者が観光地の情報をより具体的に把握できるよう工夫しました。
+• 各入力フォームのバリデーションを設定し、入力不備やエラー内容が分かりやすく伝わるよう工夫しました。
